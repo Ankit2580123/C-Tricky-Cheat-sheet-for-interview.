@@ -13,3 +13,10 @@ string s = "A";
 s.ToLower();
 Console.WriteLine(s);
 ```
+
+
+🚀 2. String Interning
+string a = "Hello";
+string b = "Hello";
+
+Console.WriteLine(object.ReferenceEquals(a, b));
