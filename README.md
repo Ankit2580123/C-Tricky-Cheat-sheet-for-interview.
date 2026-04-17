@@ -30,6 +30,7 @@ Person p2 = p1;
 p2.Name = "B";
 Console.WriteLine(p1.Name);
 ```
-Output:B
-Concept:
-Objects are reference types.
+-Output:B
+-Concept:
+-Objects are reference types.
+---
