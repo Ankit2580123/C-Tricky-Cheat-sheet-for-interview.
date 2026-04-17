@@ -17,6 +17,8 @@ string s = "Hello";
 s.Replace("H", "J");
 Console.WriteLine(s);
 
+Output:
+Hello
 ```
 🚀 2. String Interning
 string a = "Hello";
