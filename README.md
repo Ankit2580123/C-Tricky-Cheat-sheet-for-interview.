@@ -12,9 +12,12 @@ This repository contains commonly asked **tricky C# interview questions** with o
 string s = "A";
 s.ToLower();
 Console.WriteLine(s);
+
+string s = "Hello";
+s.Replace("H", "J");
+Console.WriteLine(s);
+
 ```
-
-
 🚀 2. String Interning
 string a = "Hello";
 string b = "Hello";
